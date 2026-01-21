@@ -1,0 +1,24 @@
+# Scraping and HTTP
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
+lxml>=4.9.0
+fake-useragent>=1.5.1
+
+# Database
+
+# Data processing
+pandas>=2.1.0
+
+# Utilities and logging
+python-dotenv>=1.0.0
+
+# Async support
+aiohttp>=3.9.0
+
+# Scheduling
+APScheduler>=3.10.0
+
+# API and data export
+Flask>=3.0.0
+Flask-CORS>=4.0.0
